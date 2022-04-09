@@ -163,6 +163,7 @@
 @media screen and (max-width:768px) {
     .container {
         padding: 40px;
+        height: -webkit-fill-available;
     }
     .row {
         width: 100%;
